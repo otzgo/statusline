@@ -1,0 +1,13 @@
+{
+  "language": "中文",
+  "env": {
+    "ANTHROPIC_MODEL": "claude-3-5-sonnet-20241022"
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "ccstatusline"
+  },
+  "enabledPlugins": {
+    "gopls-lsp@claude-plugins-official": true
+  }
+}
